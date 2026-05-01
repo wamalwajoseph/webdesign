@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    background-color: aliceblue;
+    margin 0;
+}
+header{
+    background-color: aqua;
+    color: azure;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+
+}
+nav a{
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+}
+main{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+img{
+    width: 400px;
+}
