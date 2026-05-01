@@ -1,16 +1,16 @@
 body{
-    font-family: Arial;
-    background-color: aliceblue;
+    font-family: Arial, ;
+    background-color: lightgrey;
     margin 0;
 }
 header{
-    background-color: aqua;
-    color: azure;
+    background-color: darkcyan;
+    color: white;
     padding: 20px;
     text-align: center;
 }
 nav{
-    background-color: black;
+    background-color: red;
     padding: 10px;
     text-align: center;
 
@@ -21,7 +21,7 @@ nav a{
     text-decoration: none;
 }
 main{
-    background-color: white;
+    background-color:rgb(222, 213, 213) ;
     margin: 20px;
     padding: 20px;
 }
